@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 BEng (Hons) Software Engineering Student<br>🏛️ London Metropolitan University<br>💻 Programming Enthusiast<br>🌱 Eager to Learn and Grow 🚀🌟
+👨‍🎓 BEng (Hons) Software Engineering <br>🏛️ London Metropolitan University<br>💻 Programming and AI Enthusiast<br>🌱 Eager to Learn and Grow 🚀🌟
 
 
 ## 🌐 Socials:
